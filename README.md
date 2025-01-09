@@ -1,3 +1,4 @@
+![logo](https://github.com/DeepakPant93/DeepakPant93/blob/main/Github%20Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Deepak Pant</h1>
 <h3 align="center">AWS Certified | Lead Technical Architect | Certified Salesforce AI Associate</h3>
 
