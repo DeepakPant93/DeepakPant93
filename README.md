@@ -37,6 +37,9 @@
   <a href="https://deepakpant93.medium.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mail2deepakpant" height="30" width="40" />
   </a>
+  <a href="https://dev.to/deepakpant93" target="blank">
+    <img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="@mail2deepakpant" height="30" width="40" />
+  </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
