@@ -12,19 +12,20 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Resume Maker AI](https://huggingface.co/spaces/deepakpant/resume-maker-ai-agent), leveraging cutting-edge AI to simplify resume creation.
-- 🌟 **Certified AWS Solutions Architect** with over 11 years of experience in cloud computing, microservices, and AI-driven technologies.
-- 💡 Proficient in building scalable, robust, and innovative software solutions across industries like healthcare, finance, and telecommunications.
-- 🛠️ Deep expertise in technologies like **Java, Spring Boot, Python, FastAPI, Docker, Kubernetes, AWS, GCP, and Azure**.
-- 📫 Reach me at **mail2deepakpant@gmail.com**
+- 🔭 I’m currently working on [Resume Maker AI](https://huggingface.co/spaces/deepakpant/resume-maker-ai-agent), leveraging cutting-edge AI to simplify resume creation. **This AI agent is powered by CrewAI and designed to modify resumes as per job descriptions, creating ATS-friendly resumes.**
 
 ---
 
-### Key Projects
-- **AI-Driven Chatbot**: Built a chatbot using ChatGPT API for personalized yoga and wellness recommendations.
-- **Digital Healthcare Initiative**: Designed and developed a national patient identity system for the Government of India, akin to UPI in the financial sector.
-- **Cloud Management Portal**: Architected solutions for public and private cloud providers, enhancing efficiency and security.
-- **Email Marketing Microservice**: Optimized campaigns with AI-driven targeting and real-time engagement metrics.
+- 🌟 **Certified Salesforce AI Associate** and **AWS Solutions Architect** with over 11 years of experience in cloud computing, microservices, and AI-driven technologies.
+- 💡 Proficient in building scalable, robust, and innovative software solutions across industries like healthcare, finance, and telecommunications.
+- 🛠️ Deep expertise in technologies like **Java, Spring Boot, Python, FastAPI, Docker, Kubernetes, AWS, GCP, and Azure**.
+
+**Key Projects**
+
+- **AI-Driven Chatbot**: Built a chatbot using ChatGPT API and LangChain to answer PDF-based queries and provide personalized yoga and wellness recommendations.
+- **Modified Cookiecutter for ML and RAG**: Enhanced the open-source Cookiecutter project to create a standardized structure for ML and Retrieval-Augmented Generation projects, reducing setup time by **50%**.
+- **Ansible-based Software Deployment**: Automated the deployment of software packages like Python, Java, and Docker on remote servers, improving efficiency by **40%**.
+- **Email Marketing Microservice**: Architected a FastAPI-based microservice for email marketing, handling **1M+ email deliveries monthly** and boosting targeting efficiency by **30%** with AI optimization.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
