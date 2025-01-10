@@ -38,8 +38,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mail2deepakpant" height="30" width="40" />
   </a>
   <a href="https://dev.to/deepakpant93" target="blank">
-    <img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="@mail2deepakpant" height="30" width="40" />
+    <img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="deepakpant93" height="30" width="40" />
   </a>
+  <a href="https://x.com/pant__93" target="blank">
+    <img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="pant__93" height="30" width="40" />
+  </a>  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
