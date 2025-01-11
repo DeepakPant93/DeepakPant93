@@ -51,7 +51,10 @@
   </a> 
   <a href="https://leetcode.com/u/deepakpant93/" target="blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" alt="deepakpant" height="30" width="40" />
-  </a> 
+  </a>
+  <a href="https://buymeacoffee.com/deepakpant" target="blank">
+    <img align="center" src="https://buymeacoffee.com/favicon.ico" alt="deepakpant" height="30" width="40" />
+  </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
