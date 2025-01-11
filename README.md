@@ -42,7 +42,13 @@
   </a>
   <a href="https://x.com/pant__93" target="blank">
     <img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-default.522d363a.png" alt="pant__93" height="30" width="40" />
-  </a>  
+  </a>
+  <a href="https://orcid.org/0009-0006-1953-2682" target="blank">
+    <img align="center" src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="0009-0006-1953-2682" height="30" width="40" />
+  </a> 
+  <a href="https://huggingface.co/deepakpant" target="blank">
+    <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="deepakpant" height="30" width="40" />
+  </a> 
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
