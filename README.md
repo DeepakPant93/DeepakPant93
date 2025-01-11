@@ -50,8 +50,11 @@
     <img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="deepakpant" height="30" width="40" />
   </a> 
   <a href="https://leetcode.com/u/deepakpant93/" target="blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" alt="deepakpant" height="30" width="40" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" alt="deepakpant93" height="30" width="40" />
   </a>
+  <a href="https://www.meetup.com/members/198413707/" target="blank">
+    <img align="center" src="https://secure.meetupstatic.com/next/images/general/favicon.ico" alt="198413707" height="30" width="40" />
+  </a>  
   <a href="https://buymeacoffee.com/deepakpant" target="blank">
     <img align="center" src="https://buymeacoffee.com/favicon.ico" alt="deepakpant" height="30" width="40" />
   </a>
