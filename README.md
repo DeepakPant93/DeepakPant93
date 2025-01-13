@@ -22,7 +22,7 @@
 
 **Key Projects**
 
-- **AI-Driven Chatbot**: Built a chatbot using ChatGPT API and LangChain to answer PDF-based queries and provide personalized yoga and wellness recommendations.
+- **[AI-Driven Chatbot](https://github.com/DeepakPant93/AskDocsGPT)**: Built a chatbot using ChatGPT API and LangChain to answer PDF-based queries and provide personalized yoga and wellness recommendations.
 - **[Modified Cookiecutter for ML and RAG](https://github.com/DeepakPant93/cookiecutter-rag)**: Enhanced the open-source Cookiecutter project to create a standardized structure for ML and Retrieval-Augmented Generation projects, reducing setup time by **50%**.
 - **[Ansible-based Software Deployment](https://github.com/DeepakPant93/servo)**: Automated the deployment of software packages like Python, Java, and Docker on remote servers, improving efficiency by **40%**.
 - **Email Marketing Microservice**: Architected a FastAPI-based microservice for email marketing, handling **1M+ email deliveries monthly** and boosting targeting efficiency by **30%** with AI optimization.
