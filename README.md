@@ -12,7 +12,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Resume Maker AI](https://huggingface.co/spaces/deepakpant/resume-maker-ai-agent), leveraging cutting-edge AI to simplify resume creation. **This AI agent is powered by CrewAI and designed to modify resumes as per job descriptions, creating ATS-friendly resumes.**
+- 🔭 **[Resume Maker AI](https://github.com/DeepakPant93/resume-maker-ai-agent)** Developed a cutting-edge AI-powered tool that simplifies resume creation. **This AI agent, powered by CrewAI, customizes resumes to match job descriptions and ensures they are ATS-friendly.**
+- **[LinkedIn Profile Optimizer Agent](https://agent.ai/profile/6kqmkpyz1rqxkz2z)**: Created a research agent in [Agent.ai](https://agent.ai/human/pant__93) that analyzes LinkedIn profiles and provides personalized suggestions for optimization. It generates a detailed profile summary, offers insights into the company’s work description, and helps improve profiles to stand out.  
+- **[Text Transformation AI Agent Tool](https://github.com/DeepakPant93/expressly-app)**: Developed a powerful AI-driven text transformation tool deployed on [Hugging Face](https://huggingface.co/spaces/deepakpant/expressly-app) and available on [GitHub](https://github.com/DeepakPant93/expressly-app). This tool empowers users to create compelling text tailored to their needs. Specify your target audience (e.g., LinkedIn post, marketing email), desired format, and tone, and let CrewAI generate high-quality, customized content.
 
 ---
 
